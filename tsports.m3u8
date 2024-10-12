@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
-https://stream.imotv.online/toffe/live.php?cid=43dcec1011e7&chunks=2ff4491ca3d6ba5096fa30e7e2cef85507d439e7a07b89d29e36e91f01a82dc38aa7f70213b3fd4e65893f2feb872782b767b9f6e4f08c15802bc6d1963c20342b3403d877949412de6727123186d39703e28f9195579f793ff85b5b523af691
+https://stream.imotv.online/toffe/live.php?id=43dcec1011e7&e=.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480
-https://stream.imotv.online/toffe/live.php?cid=43dcec1011e7&chunks=2ff4491ca3d6ba5096fa30e7e2cef855a34a3509268438cce837ece8a13b8bfc9795e0d8f044a0ebeb56548d1ba4d5ca7f8fd382340bec5c4003d71ec7a347c36945c02e2f9d8637d52ad298a7a89da4c42632a53a2ecca16cd6a0389b9a7b16
+https://stream.imotv.online/toffe/live.php?id=43dcec1011e7&e=.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
-https://stream.imotv.online/toffe/live.php?cid=43dcec1011e7&chunks=2ff4491ca3d6ba5096fa30e7e2cef855447cdebc2523e58079210dfcdba1c53c306726ec69c1ff27ca944560be039a21074d373fb4338fdfa74450e0fa2254b6aef43c67f2a9996ec23c8cc07fec6bedd385ce59e7c76d73b76d9c32f3516206
+https://stream.imotv.online/toffe/live.php?id=43dcec1011e7&e=.m3u8
