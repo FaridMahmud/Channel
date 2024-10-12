@@ -1,13 +1,9 @@
-[ 
-  {
-    "name": "cricbuzz",
-    "link": "https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/",
-    "logo": "https://i.ibb.co.com/RjgzwKK/cricbuzz-Farid.jpg",
-    "origin": "",
-    "referrer": "",
-    "userAgent": "(Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  }
-]
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
+https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480
+https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
+https://webufffit.mizhls.ru/lb/premium283/index.m3u8|referer=https://olalivehdplay.ru/
